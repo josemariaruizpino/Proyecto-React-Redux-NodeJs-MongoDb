@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "60a296d6204c634390ae9da8"
+  },
+  "name": "Sala Galileo",
+  "location": "Calle de Galileo, 100, 28015 Madrid",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T16:16:22.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T16:16:22.949Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a296d6204c634390ae9da9"
+  },
+  "name": "Wanda Metropolitano",
+  "location": "Av. de Luis Aragonés, 4, 28022 Madrid",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T16:16:22.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T16:16:22.951Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a296d6204c634390ae9daa"
+  },
+  "name": "Teatro Barcelo",
+  "location": "C. de Barceló, 11, 28004 Madrid",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T16:16:22.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T16:16:22.951Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a296d6204c634390ae9dab"
+  },
+  "name": "Teatro Darymelia",
+  "location": "Calle Colón, s/n, 23001 Jaén",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T16:16:22.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T16:16:22.951Z"
+  }
+}]

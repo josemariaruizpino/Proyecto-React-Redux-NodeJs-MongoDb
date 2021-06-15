@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "60a2b00aa8c79c1a7ce74562"
+  },
+  "styles": [
+    "pop",
+    "R&B",
+    "house"
+  ],
+  "name": "Dua Lipa",
+  "bio": "Cantante y compositora británica de etnia albanokosovar. Después de trabajar como modelo, firmó con Warner Bros. Records en 2014 y lanzó su álbum debut homónimo en 2017. El álbum alcanzó el número 3 en la UK Albums Chart y lanzó ocho sencillos, incluidos «Be the One» e «IDGAF», y el sencillo número 1 del Reino Unido «New Rules», que también llegó al puesto número 6 en Estados Unidos. En 2018, ganó dos premios Brit a la Mejor artista solista femenina británica y al Artista revelación británico.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dua_Lipa_with_Warner_Music.jpg/250px-Dua_Lipa_with_Warner_Music.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T18:03:54.666Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T18:03:54.666Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a2b00aa8c79c1a7ce74563"
+  },
+  "styles": [
+    "pop",
+    "rock",
+    "alternativo"
+  ],
+  "name": "Coldplay",
+  "bio": "Banda británica de pop rock y rock alternativo formada en Londres en 1996.6​7​ Está integrada por Chris Martin, Jon Buckland, Guy Berryman y Will Champion. Es uno de los grupos más relevantes de las décadas de los 2000 y 2010.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Coldplay_2017%2C_cropped_01.jpg/600px-Coldplay_2017%2C_cropped_01.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T18:03:54.667Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T18:03:54.667Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a2b00aa8c79c1a7ce74564"
+  },
+  "styles": [
+    "groove",
+    "metal",
+    "metalcore"
+  ],
+  "name": "Randy Blythe",
+  "bio": "Músico y vocalista de la banda de groove metal y metalcore estadounidense Lamb of God. También participa en un proyecto paralelo con el grupo Halo of Locusts. Es conocido como D. Randall Blythe en los discos de Lamb of God, aunque personalmente todos le conocen como Randy.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Randy_Blythe_at_Optimus_Alive_2009_2.jpg/210px-Randy_Blythe_at_Optimus_Alive_2009_2.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T18:03:54.667Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T18:03:54.667Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a2b00aa8c79c1a7ce74565"
+  },
+  "styles": [
+    "hardrock",
+    "drum&bass",
+    "rock",
+    "electronico"
+  ],
+  "name": "Pendulum",
+  "bio": "Banda australiana-británica de hard rock, drum and bass y rock electrónico, fundada en 2002 por Rob Swire, Gareth McGrillen, y Paul Harding. La banda se caracteriza por su estilo de combinar música electrónica con rock y por sus variadas presentaciones .",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Randy_Blythe_at_Optimus_Alive_2009_2.jpg/210px-Randy_Blythe_at_Optimus_Alive_2009_2.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T18:03:54.668Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T18:03:54.668Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a2b00aa8c79c1a7ce74566"
+  },
+  "styles": [
+    "humor",
+    "monologo",
+    "teatro"
+  ],
+  "name": "Faemino y Cansado",
+  "bio": "Dúo humorístico español, compuesto por Carlos Faemino y Javier Cansado. El dúo comenzó su carrera en Madrid, España, con espectáculos callejeros, posteriormente en bares y teatros y continuaron con apariciones en televisión, donde contaron incluso con un programa propio.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Faemino_Cansado_3658.jpg/220px-Faemino_Cansado_3658.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T18:03:54.668Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T18:03:54.668Z"
+  }
+}]

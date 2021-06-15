@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "60a249447339d62f1081c575"
+  },
+  "friends": [],
+  "acquisted": [],
+  "favourites": [],
+  "username": "Prueba",
+  "email": "prueba@rythme.com",
+  "password": "$2b$10$zAhz2BTvUo5wldl8EsrihObawxD3lcjkZJmC5Mst4YKirIb07HmYW",
+  "createdAt": {
+    "$date": "2021-05-17T10:45:24.072Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T10:45:24.072Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2939694406f0be0771b15"
+  },
+  "friends": ["60a293a494406f0be0771b16", "60a293c094406f0be0771b18"],
+  "acquisted": ["60a2b37563619d40d8d48aca"],
+  "favourites": ["60a2b37563619d40d8d48acd"],
+  "username": "yeray",
+  "email": "yeray@rythme.com",
+  "password": "$2b$10$ctGUY9xbmmHZwaczFanDHeJmxaZCOC5oy50GaRJu.X74C9L5GuzWa",
+  "createdAt": {
+    "$date": "2021-05-17T16:02:30.280Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T16:02:30.280Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a293a494406f0be0771b16"
+  },
+  "friends": ["60a293df94406f0be0771b19"],
+  "acquisted": ["60a2b37563619d40d8d48acc", "60a2b37563619d40d8d48acb"],
+  "favourites": ["60a2b37563619d40d8d48aca"],
+  "username": "pablo",
+  "email": "pablo@rythme.com",
+  "password": "$2b$10$UgjQcobNh3kHocP20HAsqOSLAw.NTUEp6erWpBsrFoXYmgwoOm.I2",
+  "createdAt": {
+    "$date": "2021-05-17T16:02:44.819Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T16:02:44.819Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a293af94406f0be0771b17"
+  },
+  "friends": ["60a293af94406f0be0771b17", "60a293df94406f0be0771b19"],
+  "acquisted": ["60a2b37563619d40d8d48acc"],
+  "favourites": ["60a2b37563619d40d8d48acb"],
+  "username": "manuel",
+  "email": "manuel@rythme.com",
+  "password": "$2b$10$bOFgaNAXggETUH1QD4R8DudoQwjv4I2Y63MUTeTx/3C6cbJyPWFoy",
+  "createdAt": {
+    "$date": "2021-05-17T16:02:55.886Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T16:02:55.886Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a293c094406f0be0771b18"
+  },
+  "friends": ["60a293ee94406f0be0771b1a"],
+  "acquisted": ["60a2b37563619d40d8d48aca"],
+  "favourites": [],
+  "username": "josemaria",
+  "email": "josemaria@rythme.com",
+  "password": "$2b$10$a7n1fLHEj7NUMyXaENR.3O7rY6YgzkJO63HCO7emM94SoVpCus5.G",
+  "createdAt": {
+    "$date": "2021-05-17T16:03:12.325Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T16:03:12.325Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a293df94406f0be0771b19"
+  },
+  "friends": ["60a293c094406f0be0771b18"],
+  "acquisted": ["60a2b37563619d40d8d48acc"],
+  "favourites": ["60a2b37563619d40d8d48acb"],
+  "username": "loreto",
+  "email": "loreto@rythme.com",
+  "password": "$2b$10$8GPqiTgX2GIDDGFbwxcqLepcxK7O0Dgyzjn6OznA91wi8vgvFUmse",
+  "createdAt": {
+    "$date": "2021-05-17T16:03:43.804Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T16:03:43.804Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a293ee94406f0be0771b1a"
+  },
+  "friends": [],
+  "acquisted": [],
+  "favourites": [],
+  "username": "juan",
+  "email": "juan@rythme.com",
+  "password": "$2b$10$lIWiIxiJY66RBvZ047TWr.Bd.iGNvAMsZQXiW05jbZlDY5P8cNBOK",
+  "createdAt": {
+    "$date": "2021-05-17T16:03:58.781Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T16:03:58.781Z"
+  },
+  "__v": 0
+}]

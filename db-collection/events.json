@@ -1,0 +1,157 @@
+[{
+  "_id": {
+    "$oid": "60a2b37563619d40d8d48aca"
+  },
+  "artists": [
+    {
+      "$oid": "60a2b00aa8c79c1a7ce74562"
+    }
+  ],
+  "attendees": [
+    {
+      "$oid": "60a293af94406f0be0771b17"
+    },
+    {
+      "$oid": "60a2939694406f0be0771b15"
+    }
+  ],
+  "styles": [
+    "pop",
+    "R&B"
+  ],
+  "date": {
+    "$date": "2021-05-23T00:00:00Z"
+  },
+  "name": "Dua Lipa Live",
+  "location": {
+    "$oid": "60a2b2b030bab84990154ef6"
+  },
+  "prize": 50,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T18:18:29.790Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T18:18:29.790Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a2b37563619d40d8d48acb"
+  },
+  "artists": [
+    {
+      "$oid": "60a2b00aa8c79c1a7ce74564"
+    },
+    {
+      "$oid": "60a2b00aa8c79c1a7ce74565"
+    }
+  ],
+  "attendees": [
+    {
+      "$oid": "60a2939694406f0be0771b15"
+    },
+    {
+      "$oid": "60a293c094406f0be0771b18"
+    },
+    {
+      "$oid": "60a293ee94406f0be0771b1a"
+    }
+  ],
+  "styles": [
+    "metal",
+    "drum&bass"
+  ],
+  "date": {
+    "$date": "2021-06-23T00:00:00Z"
+  },
+  "name": "Madrid Metal Fest",
+  "location": {
+    "$oid": "60a2b2b030bab84990154ef6"
+  },
+  "prize": 80,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T18:18:29.792Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T18:18:29.792Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a2b37563619d40d8d48acc"
+  },
+  "artists": [
+    {
+      "$oid": "60a2b00aa8c79c1a7ce74566"
+    }
+  ],
+  "attendees": [
+    {
+      "$oid": "60a2939694406f0be0771b15"
+    },
+    {
+      "$oid": "60a293c094406f0be0771b18"
+    },
+    {
+      "$oid": "60a293ee94406f0be0771b1a"
+    },
+    {
+      "$oid": "60a293a494406f0be0771b16"
+    },
+    {
+      "$oid": "60a293df94406f0be0771b19"
+    }
+  ],
+  "styles": [
+    "monologo",
+    "humor"
+  ],
+  "date": {
+    "$date": "2021-07-12T00:00:00Z"
+  },
+  "name": "Noche de monologos",
+  "location": {
+    "$oid": "60a2b2b030bab84990154ef5"
+  },
+  "prize": 15,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T18:18:29.792Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T18:18:29.792Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a2b37563619d40d8d48acd"
+  },
+  "artists": [
+    {
+      "$oid": "60a2b00aa8c79c1a7ce74563"
+    }
+  ],
+  "attendees": [
+    {
+      "$oid": "60a293af94406f0be0771b17"
+    }
+  ],
+  "styles": [
+    "pop",
+    "rock"
+  ],
+  "date": {
+    "$date": "2021-08-15T00:00:00Z"
+  },
+  "name": "Coldplay World Tour 2021",
+  "location": {
+    "$oid": "60a2b2b030bab84990154ef8"
+  },
+  "prize": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T18:18:29.792Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T18:18:29.792Z"
+  }
+}]

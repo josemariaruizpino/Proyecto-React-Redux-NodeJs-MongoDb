@@ -1,0 +1,35 @@
+@import '../../styles/styles.scss';
+
+.section {
+    background: var(--gradient);
+    padding: 16px;
+
+    h2 {
+        text-align: center;
+        text-transform: uppercase;
+        @include font($bold, $s-font, white);
+        margin-bottom: 8px;
+    }
+}
+
+
+.carousel {
+    width: 100%;
+    overflow-x: scroll;
+    &__inner {
+        display: inline-flex;
+        min-height: 100px;
+    }
+}
+
+.section-card {
+    width: 100px;
+    height: 100px;
+    margin-right: 12px;
+
+    &__img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}

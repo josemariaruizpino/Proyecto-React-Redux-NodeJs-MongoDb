@@ -1,0 +1,33 @@
+@import '../../styles/styles.scss';
+
+.welcome {
+    background-color: var(--primary-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    h1 {
+        @include font($light, $l-font, var(--secondary-color));
+        margin-bottom: 8px;
+    }
+    h2 {
+        @include font($light, $sm-font, white)
+    }
+}
+
+.input-container {
+    width: 100%;
+    input {
+        padding: 10px;
+        padding-left: 20px;
+        border-radius: 8px;
+        width: 70%;
+        background-color: var(--gradient-light);
+        border: 1px white solid;
+        color:white;
+    }
+}
+::placeholder {
+    color: white;
+}

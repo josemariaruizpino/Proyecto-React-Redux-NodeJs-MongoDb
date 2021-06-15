@@ -1,0 +1,34 @@
+// @import '../../styles/styles.scss';
+
+.info-card{
+    
+    &__info{
+        display:flex ; 
+    }
+
+    &__image{
+        height: 200px;
+    }
+
+    &__flexbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: center;
+    flex-grow: 1;
+    }
+
+    &__attendees{
+        font-size: 17px;
+    }
+
+    &__text {
+        font-size: 25px;
+    }
+
+}
+
+.button-container{
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,34 @@
+@import '../../styles/styles.scss';
+
+.form-page{
+    background: var(-- gradient);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    width:100%;
+    padding:15px;
+        .form{
+        background-color:rgb(249,249,249);
+        border-radius: 4px;
+        width:100%;
+        height: 100%;
+        }
+        .header-form{
+        background: var(--secondary-color);
+        }
+        .form-body input{
+            margin:5px 0;
+        }
+        .button-container{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        }
+        .pay{
+        width:70%;
+        background: var(--secondary-color);
+        border-radius: 8px;
+        text-align: center;
+        }
+    }
